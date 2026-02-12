@@ -17,3 +17,4 @@ Each method constructs a simulation scene under **minimum number of base station
 3) Command-line output of estimation results and errors
 
 > Note: The geometric trajectory of TDOA in a 2D scene is a **hyperbola (constant distance difference)**, not an ellipse.
+CSDN:https://blog.csdn.net/weixin_63763813/article/details/157973422?fromshare=blogdetail&sharetype=blogdetail&sharerId=157973422&sharerefer=PC&sharesource=weixin_63763813&sharefrom=from_link
